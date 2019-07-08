@@ -44,4 +44,6 @@ dependencies {
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
 
+    implementation 'me.daemon:androidtool:0.0.2'
+
 }
